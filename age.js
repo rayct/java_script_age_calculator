@@ -66,7 +66,7 @@
 
 
 //  Version: 1.0.2
-// An optimized version in ES6 :
+// An optimized version in ES6:
 // In this refactored version, we've used const instead of var to declare variables that won't be reassigned,
 // and we've used template literals to simplify string concatenation.
 // We've also extracted the prompt and print statements into their own functions, which makes the main code block more concise and easier to read.
